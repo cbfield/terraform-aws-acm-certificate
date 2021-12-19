@@ -4,7 +4,7 @@ module "my_acm_certificate" {
 
   # These are the only required values
   domain  = "something.whatever.com"
-  zone_id = "Z2NJLE48IBR1VH"
+  zone_id = "ZZZZZZZZZZZZZZ"
 
   # these are the default values
   # "EMAIL" and "NONE" are valid methods as well

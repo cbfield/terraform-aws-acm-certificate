@@ -2,8 +2,8 @@ module "my_acm_certificate" {
   source = "../../"
 
   # These are the only required values
-  domain  = "something.bucketmeadow.com"
-  zone_id = "Z2NJLE48IBR1VH"
+  domain  = "something.whatever.com"
+  zone_id = "ZZZZZZZZZZZZZZ"
 
   # these are the default values
   # "EMAIL" and "NONE" are valid methods as well
